@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  sample:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-07-05T09:22:33.686175175-03:00"
+    description: A sample Helm chart for Kubernetes
+    digest: ed8a23aa53104db0fe05e74099aafe7d6854a585f31d7c1d53588b42c98244a0
+    name: sample
+    type: application
+    urls:
+    - https://github.com/Feggah/chart-sample/releases/download/sample-0.1.0/sample-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-07-05T09:22:33.686180287-03:00"
